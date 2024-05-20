@@ -1,14 +1,14 @@
-#include<stdlib.h>
-#include<stdio.h>
+    #include<stdlib.h>
+    #include<stdio.h>
 
-int main(){
-    int n, c, m, s, t, ca, v;
-    char a, d;
-    a = '4';
-    m = 1;
-    s = 0;
-    t = 0;
-    v = 0;
+    int main(){
+        int n, c, m, s, t, ca, v;
+        char a, d;
+        a = '4';
+        m = 1;
+        s = 0;
+        t = 0;
+        v = 0;
 
     printf("Digite os valores da entrada: ");
     scanf("%d", &n);
