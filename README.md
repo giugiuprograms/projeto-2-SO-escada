@@ -33,5 +33,4 @@
     int r = c + (10 * m) - s;
     printf("%d\n", r); 
 
-    return 0;
-   }
+    return 0;}
